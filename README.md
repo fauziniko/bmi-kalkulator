@@ -1,28 +1,24 @@
+# Kalkulator BMI
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Tujuan kita
 
-#  BMI Calculator
+Tujuan dari tutorial ini adalah untuk mempelajari lebih lanjut tentang Opsional, memperkuat pemahaman Anda tentang pola desain MVC dan memperkenalkan konsep Kelas. Kita akan membandingkan objek yang dibuat dari kelas dengan instance Structs yang telah kita pelajari sebelumnya.
 
-## Our Goal
+## Apa yang akan Anda buat
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+Di akhir modul, Anda akan membuat kalkulator Indeks Massa Tubuh. Berdasarkan berat dan tinggi badan pengguna, alat ini akan menghitung massa tubuh mereka dan memberikan saran kesehatan tergantung apakah mereka makan terlalu banyak pai atau apakah mereka perlu makan lebih banyak pai.
 
-## What you will create
+## Apa yang akan Anda pelajari
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
-
-## What you will learn
-
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
+* Cara membuat aplikasi multilayar dengan navigasi animasi.
+* Pengikatan opsional, rangkaian opsional, dan operator penggabungan nihil.
+* Cara membuat kelas dan perbedaan antara kelas dan struct.
+* Melewati nilai vs. melewati referensi.
+* Memformat String.
+* Warna literal.
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
-# tugas-akhir-pbo-managemnet-karyawan-hotel
+
+
